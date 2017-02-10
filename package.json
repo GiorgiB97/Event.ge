@@ -1,0 +1,35 @@
+{
+  "name": "intermundia",
+  "version": "0.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.centorio.com:omicronsoft/intermundia-profile.git"
+  },
+  "author": "",
+  "license": "none",
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-autoprefixer": "~3.1.1",
+    "gulp-clean-css": "~2.0.13",
+    "gulp-concat": "~2.6.1",
+    "gulp-cssnano": "~2.1.2",
+    "gulp-eslint": "~3.0.1",
+    "gulp-inject": "^4.1.0",
+    "gulp-less": "~3.3.0",
+    "gulp-load-plugins": "~1.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-size": "~2.1.0",
+    "gulp-sourcemaps": "~1.9.1",
+    "gulp-uglify": "~2.0.0",
+    "gulp-util": "~3.0.7",
+    "path": "~0.12.7",
+    "wrench": "~1.5.9"
+  }
+}

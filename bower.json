@@ -1,0 +1,21 @@
+{
+  "name": "intermundia",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Zura Sekhniashvili <zurasekhniashvili@gmail.com>"
+  ],
+  "license": "none",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
